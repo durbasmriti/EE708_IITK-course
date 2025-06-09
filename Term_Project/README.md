@@ -1,0 +1,3 @@
+
+🔗 [Facial Expression Dataset on Kaggle](https://www.kaggle.com/datasets/durbas/facial-expression-dataset)
+
